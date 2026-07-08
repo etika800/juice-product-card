@@ -14,3 +14,6 @@ CSS3
 ## Author
 Etika Verma
 
+## Live Demo
+https://etika800.github.io/juice-product-card/
+
